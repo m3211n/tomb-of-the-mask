@@ -100,29 +100,6 @@
         "tilemapTile": true,
         "displayName": "completed"
     },
-    "level1": {
-        "id": "level1",
-        "mimeType": "application/mkcd-tilemap",
-        "data": "MTAwYTAwMDcwMDAyMGMwMTAxMDEwMTAxMDEwYjAyMGMwODAyMDIwMjAyMDIwMjA5MGIwNjAyMDIwNDA0MDIwMjAyMDIwNTA2MDIwMjA0MDQwMjAyMDIwMjA1MDYwMjAyMDIwMjAyMDIwYTAzMGUwZDA3MDIwMjAyMDIwMjA1MDIwMjAyMGQwMzAzMDMwMzAzMGUwMjAyMjAyMjIyMjIwMjIyMDAwMDAwMjIwMjIwMDIwMDIwMDIyMDAyMDAyMDAyMDAwMDIwMjIyMjAwMDAyMDAwMjAyMjIyMjIwMA==",
-        "tileset": [
-            "myTiles.transparency16",
-            "myTiles.tile1",
-            "myTiles.tile2",
-            "myTiles.tile7",
-            "myTiles.tile14",
-            "myTiles.tile15",
-            "myTiles.tile16",
-            "myTiles.tile17",
-            "myTiles.tile18",
-            "myTiles.tile19",
-            "myTiles.tile20",
-            "myTiles.tile21",
-            "myTiles.tile22",
-            "myTiles.tile23",
-            "myTiles.tile24"
-        ],
-        "displayName": "level1"
-    },
     "level2": {
         "id": "level2",
         "mimeType": "application/mkcd-tilemap",
@@ -143,6 +120,28 @@
             "myTiles.tile23"
         ],
         "displayName": "leve0"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYTAwMDcwMDBiMDEwMTAxMDEwMTAxMDEwYTAyMDYwMjAyMDIwMjAyMDIwMjA4MGEwNjAyMDIwNDA0MDIwMjAyMDIwNTA2MDIwMjA0MDQwMjAyMDIwMjA1MDYwMjAyMDIwMjAyMDIwOTAzMGQwYzA3MDIwMjAyMDIwMjA1MDIwMjAyMGMwMzAzMDMwMzAzMGQwMjAyMjIyMjIyMjIwMjAyMDAwMDAwMjIwMjIwMDIwMDIwMDIyMDAyMDAyMDAyMDAwMDIwMjIyMjAwMDAyMDAwMjAyMjIyMjIwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile1",
+            "myTiles.tile2",
+            "myTiles.tile7",
+            "myTiles.tile14",
+            "myTiles.tile15",
+            "myTiles.tile16",
+            "myTiles.tile17",
+            "myTiles.tile19",
+            "myTiles.tile20",
+            "myTiles.tile21",
+            "myTiles.tile22",
+            "myTiles.tile23",
+            "myTiles.tile24"
+        ],
+        "displayName": "level1"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
